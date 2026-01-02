@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5_practice\\toontanks 5.7\\source\\toontanks\\mypawn.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\x64\\toontankseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "d:\\ue5_practice\\toontanks 5.7\\source\\toontanks\\mypawn.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\mypawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

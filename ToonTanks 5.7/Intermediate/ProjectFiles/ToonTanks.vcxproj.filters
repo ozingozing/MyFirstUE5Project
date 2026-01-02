@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\vc-ue-extensions">
+      <UniqueIdentifier>{9E64FC0D-87CE-397D-88DF-9E3FD480D164}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\vc-ue-extensions\Config">
+      <UniqueIdentifier>{88C45122-8E4E-3707-802A-05097227BC30}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\vc-ue-extensions\Config\FilterPlugin.ini">
+      <Filter>Plugins\vc-ue-extensions\Config</Filter>
+    </None>
+    <Filter Include="Plugins\vc-ue-extensions\Source">
+      <UniqueIdentifier>{016C880F-B704-34E4-BB05-5DEBAE3027F7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\vc-ue-extensions\Source\VisualStudioBlueprintDebuggerHelper">
+      <UniqueIdentifier>{ED5C27CA-EC92-31E2-BC35-63A32CD11CFA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\vc-ue-extensions\Source\VisualStudioBlueprintDebuggerHelper\Private">
+      <UniqueIdentifier>{4AABD3F7-6A64-3401-843E-2C510F858FE5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioBlueprintDebuggerHelper\Private\VisualStudioBlueprintDebuggerHelperModule.cpp">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioBlueprintDebuggerHelper\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioBlueprintDebuggerHelper\Private\VisualStudioBlueprintDebuggerHelperModule.h">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioBlueprintDebuggerHelper\Private</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioBlueprintDebuggerHelper\VisualStudioBlueprintDebuggerHelper.Build.cs">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioBlueprintDebuggerHelper</Filter>
+    </None>
+    <Filter Include="Plugins\vc-ue-extensions\Source\VisualStudioTools">
+      <UniqueIdentifier>{1ADF3657-F93E-3E52-88B3-A335237F5400}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\vc-ue-extensions\Source\VisualStudioTools\Private">
+      <UniqueIdentifier>{E881F2E3-5F63-3515-B5C3-8572C7006D6F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\BlueprintAssetHelper.cpp">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\BlueprintAssetHelpers.h">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\BlueprintReferencesCommandlet.cpp">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\BlueprintReferencesCommandlet.h">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\FSmartBSTR.h">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\VisualStudioTools.cpp">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\VisualStudioToolsBlueprintBreakpointExtension.cpp">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\VisualStudioToolsBlueprintBreakpointExtension.h">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\VisualStudioToolsCommandlet.cpp">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\VisualStudioToolsCommandlet.h">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\VisualStudioToolsCommandletBase.cpp">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\VisualStudioToolsCommandletBase.h">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\VSServerCommandlet.cpp">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\VSServerCommandlet.h">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\VSTestAdapterCommandlet.cpp">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Private\VSTestAdapterCommandlet.h">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\vc-ue-extensions\Source\VisualStudioTools\Public">
+      <UniqueIdentifier>{F346507D-6AD6-3933-A74F-D28B59BAB933}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\Public\VisualStudioTools.h">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\vc-ue-extensions\Source\VisualStudioTools\VisualStudioTools.Build.cs">
+      <Filter>Plugins\vc-ue-extensions\Source\VisualStudioTools</Filter>
+    </None>
+    <None Include="..\..\Plugins\vc-ue-extensions\VisualStudioTools.uplugin">
+      <Filter>Plugins\vc-ue-extensions</Filter>
+    </None>
+    <None Include="..\..\shadertoolsconfig.json" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ToonTanks.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ToonTanksEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\ToonTanks">
+      <UniqueIdentifier>{E9525C73-BA96-364D-A0B3-5AA96A156438}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ToonTanks\BasePawn.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\BasePawn.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ToonTanks\HealthComponent.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\HealthComponent.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ToonTanks\Projectile.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\Projectile.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ToonTanks\Tank.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\Tank.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ToonTanks\ToonTankPlayerController.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\ToonTankPlayerController.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ToonTanks\ToonTanks.Build.cs">
+      <Filter>Source\ToonTanks</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ToonTanks\ToonTanks.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\ToonTanks.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ToonTanks\ToonTanksGameMode.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\ToonTanksGameMode.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ToonTanks\Tower.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\Tower.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
+    <None Include="..\..\ToonTanks.uproject" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\UE5_Practice\\ToonTanks 5.7\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"D:\\UE5_Practice\\ToonTanks 5.7\\Plugins\\vc-ue-extensions\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"D:\\UE5_Practice\\ToonTanks 5.7\\Plugins\\vc-ue-extensions\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"D:\\UE5_Practice\\ToonTanks 5.7\\Source\\ToonTanks.Target.cs",
+		"D:\\UE5_Practice\\ToonTanks 5.7\\Source\\ToonTanksEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.0"
+}

@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ToonTanks-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/UE5_Practice/ToonTanks 5.7/Intermediate/Build/Win64/x64/ToonTanksEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"D:/UE5_Practice/ToonTanks 5.7/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/ToonTanks/Module.ToonTanks.gen.cpp.obj"
+"D:/UE5_Practice/ToonTanks 5.7/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/ToonTanks/BasePawn.cpp.obj"
+"D:/UE5_Practice/ToonTanks 5.7/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/ToonTanks/HealthComponent.cpp.obj"
+"D:/UE5_Practice/ToonTanks 5.7/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/ToonTanks/Projectile.cpp.obj"
+"D:/UE5_Practice/ToonTanks 5.7/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/ToonTanks/Tank.cpp.obj"
+"D:/UE5_Practice/ToonTanks 5.7/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/ToonTanks/ToonTankPlayerController.cpp.obj"
+"D:/UE5_Practice/ToonTanks 5.7/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/ToonTanks/ToonTanks.cpp.obj"
+"D:/UE5_Practice/ToonTanks 5.7/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/ToonTanks/ToonTanksGameMode.cpp.obj"
+"D:/UE5_Practice/ToonTanks 5.7/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/ToonTanks/Tower.cpp.obj"
+"D:/UE5_Practice/ToonTanks 5.7/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/ToonTanks/PerModuleInline.gen.cpp.obj"
+"D:/UE5_Practice/ToonTanks 5.7/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/ToonTanks/Default.rc2.res"
+/OUT:"D:/UE5_Practice/ToonTanks 5.7/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/ToonTanks/UnrealEditor-ToonTanks-Win64-DebugGame.lib"

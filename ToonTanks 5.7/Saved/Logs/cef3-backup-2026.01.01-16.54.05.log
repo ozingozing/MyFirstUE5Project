@@ -1,0 +1,29 @@
+[26028:32248:0101/180524.989:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26028:32248:0101/180525.087:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26028:32248:0101/180527.324:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[26028:32248:0101/180532.929:ERROR:device_event_log_impl.cc(196)] [18:05:32.608] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[13464:4376:0101/180610.101:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13464:4376:0101/180610.181:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13464:4376:0101/180611.630:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[13464:4376:0101/180615.225:ERROR:device_event_log_impl.cc(196)] [18:06:15.219] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[20164:36144:0101/180737.916:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20164:36144:0101/180737.955:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20164:36144:0101/180739.391:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[20164:36144:0101/180744.638:ERROR:device_event_log_impl.cc(196)] [18:07:44.306] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[20164:36144:0101/181019.926:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[22196:5884:0101/181309.258:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22196:5884:0101/181309.303:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22196:5884:0101/181310.738:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[22196:5884:0101/181316.004:ERROR:device_event_log_impl.cc(196)] [18:13:15.672] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[22196:5884:0101/181335.184:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[3000:32772:0102/001922.875:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3000:32772:0102/001922.912:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3000:32772:0102/001924.357:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[3000:32772:0102/001931.503:ERROR:device_event_log_impl.cc(196)] [00:19:31.503] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[3000:32772:0102/001931.576:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[8264:13648:0102/005234.111:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8264:13648:0102/005234.199:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8264:13648:0102/005236.506:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[8264:13648:0102/005241.515:ERROR:device_event_log_impl.cc(196)] [00:52:41.515] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[8264:13648:0102/005241.601:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[26028:32248:0102/015405.968:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

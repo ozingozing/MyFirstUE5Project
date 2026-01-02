@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toontanks\\module.toontanks.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\x64\\toontankseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\basepawn.gen.cpp",
+            "d:\\ue5_practice\\toontanks 5.7\\source\\toontanks\\basepawn.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\basepawn.generated.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\healthcomponent.gen.cpp",
+            "d:\\ue5_practice\\toontanks 5.7\\source\\toontanks\\healthcomponent.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\healthcomponent.generated.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\projectile.gen.cpp",
+            "d:\\ue5_practice\\toontanks 5.7\\source\\toontanks\\projectile.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\projectile.generated.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.gen.cpp",
+            "d:\\ue5_practice\\toontanks 5.7\\source\\toontanks\\tank.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.generated.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\toontankplayercontroller.gen.cpp",
+            "d:\\ue5_practice\\toontanks 5.7\\source\\toontanks\\toontankplayercontroller.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\toontankplayercontroller.generated.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\toontanks.init.gen.cpp",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\toontanksgamemode.gen.cpp",
+            "d:\\ue5_practice\\toontanks 5.7\\source\\toontanks\\toontanksgamemode.h",
+            "e:\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\toontanksgamemode.generated.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tower.gen.cpp",
+            "d:\\ue5_practice\\toontanks 5.7\\source\\toontanks\\tower.h",
+            "d:\\ue5_practice\\toontanks 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tower.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

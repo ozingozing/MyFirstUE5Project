@@ -1,0 +1,12 @@
+[9664:16332:1229/222756.756:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9664:16332:1229/222756.847:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9664:16332:1229/222759.180:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[9664:16332:1229/222805.650:ERROR:device_event_log_impl.cc(196)] [22:28:05.645] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[9664:16332:1229/225448.603:ERROR:device_event_log_impl.cc(196)] [22:54:48.575] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[9664:16332:1229/233555.603:ERROR:device_event_log_impl.cc(196)] [23:35:55.299] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[25760:18552:1229/235314.787:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25760:18552:1229/235314.867:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25760:18552:1229/235317.288:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[25760:18552:1229/235322.841:ERROR:device_event_log_impl.cc(196)] [23:53:22.515] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[9664:16332:1229/235328.237:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[25760:18552:1230/010316.731:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
